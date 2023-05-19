@@ -7,6 +7,16 @@
     list-style: none;
     text-decoration: none;
 }
+
+main {
+  background: url(../shapely.webp) no-repeat center/cover;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
 header {
     height: 76px;
     border-bottom: 3px solid #333;
